@@ -1,14 +1,7 @@
-fgfhgfh
-hh
-iij
-jj
-j
-klkl;
-ddx
 
+Z
+A
+R
+K
+O
 
-x
-
-x
-x
-xd
