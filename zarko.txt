@@ -2,12 +2,13 @@ Z
 A
 I
 R
-E
+R
 P
 M
 
 Z
 A
+R
 R
 X
 
@@ -29,3 +30,6 @@ A
 M
 P
 
+J
+U
+S
