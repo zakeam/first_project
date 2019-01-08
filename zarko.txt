@@ -12,8 +12,13 @@ Z
 B
 R
 R
+K
+O
+
 X
 P
+Y
+
 
 P
 P
@@ -25,6 +30,7 @@ V
 I
 C
 C
+
 
 V
 C
