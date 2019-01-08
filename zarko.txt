@@ -3,7 +3,7 @@ A
 K
 R
 E
-A
+P
 M
 
 Z
@@ -13,7 +13,7 @@ K
 O
 
 X
-X
+Y
 
 P
 E
@@ -25,9 +25,8 @@ I
 C
 C
 
-Q
-A
-D
 
+V
+C
 
 
