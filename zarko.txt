@@ -1,6 +1,6 @@
 Z
 A
-K
+I
 R
 E
 P
@@ -15,7 +15,7 @@ P
 E
 T
 R
-O
+T
 V
 I
 C
@@ -24,4 +24,8 @@ C
 V
 C
 
+S
+A
+M
+P
 
